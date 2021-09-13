@@ -1,0 +1,15 @@
+a.links {
+	color: white;
+}
+
+a.links:hover {
+	color: red;
+}
+
+div.card {
+	box-shadow: 1px 3px 10px 5px grey;
+}
+
+body {
+  padding-bottom: 60px;
+}
